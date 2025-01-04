@@ -66,6 +66,7 @@ Welcome to the **App Development Repository**! This repository showcases a colle
 
 ## 💬 Feedback
 Feel free to reach out or open an issue if you have any suggestions or find bugs.
+
 📧 Email: mukutamanitd6@gmail.com
 
 ⭐ If you find this repository helpful, don't forget to give it a star!
